@@ -37,7 +37,6 @@ git clone https://github.com/your-username/grocify-store-app.git
 cd grocify-store-app
 ```
 
-
 ### 2. Run Project
 
 ```bash
