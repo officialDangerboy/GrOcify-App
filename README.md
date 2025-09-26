@@ -11,8 +11,8 @@
 - ⚛️ **React** – Frontend UI
 - ⚡ **Vite** – Next-gen frontend tooling
 - 🎯 **ESLint** – Code linting and standards
-- 💨 *(Optional)* **Tailwind CSS** – Utility-first styling
-- 🧪 *(Optional)* **Vitest / Jest** – Unit testing
+- 💨 **Tailwind CSS** – Utility-first styling
+- 🧪 **Vitest / Jest** – Unit testing
 
 ---
 
@@ -35,6 +35,12 @@ Built with a **mobile-first** approach using modern CSS (Flexbox, Grid, media qu
 ```bash
 git clone https://github.com/your-username/grocify-store-app.git
 cd grocify-store-app
+```
+
+
+### 2. Run Project
+
+```bash
 npm i
 npm run dev
 ```
